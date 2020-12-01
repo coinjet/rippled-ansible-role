@@ -2,7 +2,6 @@
 
 An Ansible role for installing and running rippled
 
-[![Circle CI](https://circleci.com/gh/ripple/rippled-ansible-role.svg?style=svg)](https://circleci.com/gh/ripple/rippled-ansible-role)
 [![Ripple](https://ripple.com/wp-content/uploads/2014/10/Ripple_attribution_badge_blue1.png)](https://ripple.com)
 
 ## Requirements
